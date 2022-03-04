@@ -1,0 +1,34 @@
+﻿Little Caesers
+The Highest quality of Pizza
+Hot'n Fresh!
+(905) 565-6050
+
+Pizza Size				
+Small			$ 10
+Medium				
+Large				
+X-Large				
+
+Toppings				
+
+Ham			$ 2.34
+Pepperoni		$ 1.77
+Mushrooms		$ 1.03
+Bacon			$ 2.32
+Onion			$ .56
+
+Side Items				
+
+
+Order Type: 		
+
+   Payment Method: 		
+
+Sub total: $ 46.24		
+
+Tax (HST): $ 6.01		
+
+Total: $ 52.25		
+
+Thank You!
+Have a nice day!
